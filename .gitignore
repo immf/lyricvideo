@@ -1,0 +1,5 @@
+# gerados pelo uso do app: letras baixadas/editadas e videos exportados
+cache/
+output/
+# stills de teste (--still sem --out)
+still_*.png
